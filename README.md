@@ -41,19 +41,7 @@ Military-grade reliability, autonomous intelligence, cutting-edge engineering.
 - Fade-in on scroll (via Framer Motion)
 - Hover effects on cards and buttons
 
----
 
-### 🖼️ Screenshots
-
-#### Desktop View
-
-![Desktop Screenshot](screenshots/desktop.png)
-
-#### Mobile View
-
-![Mobile Screenshot](screenshots/mobile.png)
-
----
 
 ### 🚀 Setup Instructions
 
